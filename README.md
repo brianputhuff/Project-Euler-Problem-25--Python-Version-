@@ -1,7 +1,8 @@
 # Project-Euler-Problem-25--Python-Version-
 Python conversion of my original C++ solution of Project Euler Problem # 25
 
-Initial Problem Details (source: https://projecteuler.net/problem=25):
+Initial Problem Details:
+
 {Note: Parenthetical grouped content denotes subscript.}
   
 The Fibonacci sequence is defined by the recurrence relation:
@@ -24,3 +25,5 @@ F(12) = 144
 The 12th term, F(12), is the first term to contain three digits.
 
 What is the first term in the Fibonacci sequence to contain 1000 digits?
+
+(link: https://projecteuler.net/problem=25)
