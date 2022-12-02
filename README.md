@@ -1,5 +1,8 @@
 ## Project Euler Problem 25
+
 This is my solution of Project Euler Problem # 25. Written in Python (Version 3+).
+
+<br>
 
 ## Problem details (from Project Euler)
 
@@ -30,6 +33,8 @@ The 12th term, `F(12)`, is the first term to contain three digits.
 
 What is the first term in the Fibonacci sequence to contain 1000 digits?
 
+<br>
+
 ## Running
 
 From the command line, enter:
@@ -38,5 +43,8 @@ From the command line, enter:
 
 The program will display the first number in the Fibonacci sequence to hit 1000 digits, and its term number in the sequence.
 
+<br>
+
 ## Links
+
 https://projecteuler.net/problem=25
